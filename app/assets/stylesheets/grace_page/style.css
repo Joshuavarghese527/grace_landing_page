@@ -510,7 +510,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .module-image {
-	background: #222 url(easter.png);
+	background: #222 url(grace_page/easter.png);
 	background-repeat: no-repeat;
 	padding: 0;
 	-webkit-background-size: cover;
