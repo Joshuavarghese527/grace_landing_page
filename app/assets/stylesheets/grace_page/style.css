@@ -1033,7 +1033,7 @@ text-align: center;
 
 #status,
 .status-mes {
-	background-image: url(preloader1.gif);
+	background-image: url(grace_page/preloader1.gif);
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
